@@ -16,5 +16,27 @@
 	"tabWidth": 2,
 	"trailingComma": "es5",
 	"useTabs": true,
-	"vueIndentScriptAndStyle": true
+	"vueIndentScriptAndStyle": true,
+	"importOrderSeparation": true,
+	"importOrderSortSpecifiers": true,
+	"importOrder": [
+		"^react(.*)",
+		"<THIRD_PARTY_MODULES>",
+		"routes/",
+		"pages/",
+		"constants/",
+		"contexts/",
+		"hooks/",
+		"components/",
+		"mocks/",
+		"types/",
+		"interfaces/",
+		"services/",
+		"utils/",
+		"tests/",
+		"static/",
+		".css",
+		"@/(.*)",
+		"^[./]"
+	]
 }
