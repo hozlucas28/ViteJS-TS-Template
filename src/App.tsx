@@ -1,6 +1,6 @@
 import styles from './App.module.css'
 
-function App() {
+export default function App() {
 	return (
 		<div className={styles.container}>
 			<h1 className={styles.title}>ViteJS Template [TypeScript]</h1>
@@ -16,5 +16,3 @@ function App() {
 		</div>
 	)
 }
-
-export default App
