@@ -22,6 +22,12 @@
 	"importOrder": [
 		"^react(.*)",
 		"<THIRD_PARTY_MODULES>",
+		"^@assets/(.*)$",
+		"^@components/(.*)$",
+		"^@core/(.*)$",
+		"^@pages/(.*)$",
+		"^@services/(.*)$",
+		"^@utils/(.*)$",
 		"routes/",
 		"pages/",
 		"constants/",
@@ -36,7 +42,6 @@
 		"tests/",
 		".css",
 		"static/",
-		"@/(.*)",
 		"^[./]"
 	]
 }
