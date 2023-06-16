@@ -22,7 +22,6 @@
 
 		/* Paths */
 		"paths": {
-			"@/*": ["./src/*"],
 			"@assets/*": ["./src/assets/*"],
 			"@components/*": ["./src/components/*"],
 			"@core/*": ["./src/core/*"],
