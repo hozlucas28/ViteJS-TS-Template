@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/88015479/229431617-fec3be3b-a460-4557-8a31-60bc3c8512a2.png" width="800">
+    <img src="./.github/react-vitejs-eslint-tailwind-logo.png" width="800">
 </p>
 
 <h2>
